@@ -28,7 +28,6 @@
 
 ```
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smilegupta.1998&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/kumar.suraj.528))  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@gupta_smile_&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](t.me/Ksuraj138) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/suraj-kumar-7bba4416b/)) 
 
 ***Glad to see you here! Show some love by [starring](https://suraj138.github.io/Birthday_wish/) this repo.***
 
